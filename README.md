@@ -5,3 +5,4 @@
 - 📫 How to get to the beach?
 -  0%[][][][][][][][][][][][][]100%
 - __Frontend development__ is cool)
+- I like holographic gradient
