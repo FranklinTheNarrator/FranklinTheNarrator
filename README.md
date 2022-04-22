@@ -2,6 +2,6 @@
 - 👀 I’m interested in ... something cool?
 - 🌱 I’m currently learning CSS, JavaScript, Python, and C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to get to the beach?...
+- 📫 How to get to the beach?
 -  0%[][][][][][][][][][][][][]100%
 - __Frontend development__ is cool)
