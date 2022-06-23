@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Franklin
 - 👀 I’m interested in ... something cool?
-- 🌱 I’m currently learning CSS, JavaScript, Python, and C++
+- 🌱 I’m currently learning, JavaScript, Java, Python, and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to get to the beach?
 -  0%[][][][][][][][][][][][][]100%
 - __Frontend development__ is cool)
-- I like holographic gradient
+
+let me = "be free";<br>
+console.log(me);
