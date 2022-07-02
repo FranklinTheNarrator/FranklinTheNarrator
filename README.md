@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Franklin
 - 👀 I’m interested in ... something cool?
-- 🌱 I’m currently learning, JavaScript, Java, Python, and C++
+- 🌱 I’m currently learning, JavaScript, Java, C# and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to chill?
 -  0%[][][][][][][][][][][][][]100%
