@@ -10,7 +10,7 @@
 -  "coffee.obj" drinking...<br>
 -  "Bao The Cat.bot" code writing...<br>
 -  "bed.obj" resting...<br>
--  and please repeat
+-   and please repeat
 <br>
 let me = "be free";<br>
 console.log(me);
