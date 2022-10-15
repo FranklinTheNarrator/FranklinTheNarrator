@@ -2,8 +2,7 @@
 - 👀 I’m interested in ... something cool?
 - 🌱 I’m currently learning, JavaScript, Java, C# and C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to chill?
-<br>
+- 📫 How to chill?<br><br>
 -  0%[][][][][][][][][][][][][]100% - package downloading...<br>
 -  "frontend_development.html" downloading...<br>
 -  "oop.jar" local bridge connecting...<br>
@@ -12,6 +11,6 @@
 -  "Bao The Cat.bot" code writing...<br>
 -  "bed.obj" resting...<br>
 -  and please repeat
-
+<br>
 let me = "be free";<br>
 console.log(me);
