@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning, JavaScript, Java, C# and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to chill?<br><br>
--  0%[][][][][][][][][][][][][]100% - package downloading...<br>
+-  0%[*][*][*][*][*][*][*][*][*][*][*][*][*][*][*][*][*][*][*][*]100% - package downloading...<br>
 -  "frontend_development.html" downloading...<br>
 -  "oop.jar" local bridge connecting...<br>
 -  "pc_build.jpg" my-damn-setup hating...<br>
