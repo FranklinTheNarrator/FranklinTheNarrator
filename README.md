@@ -12,5 +12,3 @@
 -  "bed.obj" resting...<br>
 -   and please repeat
 <br>
-let me = "be free";<br>
-console.log(me);
