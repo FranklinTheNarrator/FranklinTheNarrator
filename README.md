@@ -7,10 +7,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franklinthenarrator&show_icons=true&locale=en" alt="franklinthenarrator" /></p>
 
-
 - 👋 Hi, I’m Franklin
 - 👀 I’m interested in ... something cool?
 - 🌱 I’m currently learning, JavaScript, Java, C# and C++
 -  0%[*][*][*][*][*][*][*][*][*][*][*][*][*][*][*][*][*][*][*][*]100% - package downloading...<br>
 -  AYO, Bao's stuck again
--  
