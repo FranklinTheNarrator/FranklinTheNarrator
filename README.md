@@ -8,7 +8,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=FranklinTheNarrator&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 <p align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=FranklinTheNarrator&theme=tokyonight&hide_border=true)" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=FranklinTheNarrator&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🏆 GitHub Trophies
